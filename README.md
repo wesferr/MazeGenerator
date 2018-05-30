@@ -1,3 +1,4 @@
+Developed on Data Structure 2 Class  
 Perfect maze generator c++ writed
 
 use makefile or:
